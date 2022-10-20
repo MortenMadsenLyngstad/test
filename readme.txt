@@ -1,3 +1,2 @@
-Hello!
 New Hello!
 Hi!
